@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+![](https://komarev.com/ghpvc/?username=FirmanSyahputra9&color=red)
 <!--
 **FirmanSyahputra9/FirmanSyahputra9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
