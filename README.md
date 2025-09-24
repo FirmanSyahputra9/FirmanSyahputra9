@@ -7,6 +7,8 @@
 <p>
   <img alt="Laravel Blade" src="https://img.shields.io/badge/-Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Livewire" src="https://img.shields.io/badge/-Livewire-0C4B33?style=flat-square&logo=laravel&logoColor=white" />
+  <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
