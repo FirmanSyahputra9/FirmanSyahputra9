@@ -30,7 +30,7 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=FirmanSyahputra9&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirmanSyahputra9&show_icons=true&theme=dark)
+![GitHub Stats](./profile/stats.svg)
 <!--
 **FirmanSyahputra9/FirmanSyahputra9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
